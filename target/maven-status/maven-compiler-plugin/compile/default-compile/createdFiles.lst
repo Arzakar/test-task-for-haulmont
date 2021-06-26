@@ -1,0 +1,11 @@
+main\java\com\haulmont\testtask\model\Client.class
+main\java\com\haulmont\testtask\view\DataBaseTableController.class
+main\java\com\haulmont\testtask\Main.class
+main\java\com\haulmont\testtask\view\CreditOfferController.class
+main\java\com\haulmont\testtask\view\CreditOfferShowController.class
+main\java\com\haulmont\testtask\DataBaseController.class
+main\java\com\haulmont\testtask\model\Credit.class
+main\java\com\haulmont\testtask\model\CreditOffer.class
+main\java\com\haulmont\testtask\view\MainOverviewController.class
+main\java\com\haulmont\testtask\model\Bank.class
+main\java\com\haulmont\testtask\view\CreditOfferUpdateController.class

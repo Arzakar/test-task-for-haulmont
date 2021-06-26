@@ -1,0 +1,1 @@
+INSERT INTO CLIENTSTABLE VALUES (?, ?, ?, ?, ?, ?, ?);

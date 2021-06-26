@@ -1,0 +1,1 @@
+UPDATE CLIENTSTABLE SET surname = ?, name = ?, patronymic = ?, phoneNumber = ?, email = ?, passportID = ? WHERE id = ?
